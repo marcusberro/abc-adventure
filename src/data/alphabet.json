@@ -1,0 +1,1113 @@
+{
+ "languages": {
+  "en": {
+   "name": "English",
+   "flag": "🇬🇧",
+   "speech": "en-US",
+   "ui": {
+    "title": "ABC Adventure",
+    "tap": "Tap a letter!",
+    "examples": "Words that start with",
+    "prev": "Back",
+    "next": "Next",
+    "play": "Play",
+    "learn": "Learn",
+    "findLetter": "Find the letter!",
+    "great": "Great job!",
+    "listen": "Listen again",
+    "playAgain": "Play again",
+    "backToAlphabet": "Back to the alphabet",
+    "wellDone": "Well done!",
+    "score": "{n} of {total} on the first try"
+   },
+   "words": {
+    "A": [
+     [
+      "Apple",
+      "🍎"
+     ],
+     [
+      "Ant",
+      "🐜"
+     ],
+     [
+      "Airplane",
+      "✈️"
+     ]
+    ],
+    "B": [
+     [
+      "Ball",
+      "⚽"
+     ],
+     [
+      "Banana",
+      "🍌"
+     ],
+     [
+      "Bear",
+      "🐻"
+     ]
+    ],
+    "C": [
+     [
+      "Cat",
+      "🐱"
+     ],
+     [
+      "Car",
+      "🚗"
+     ],
+     [
+      "Cake",
+      "🍰"
+     ]
+    ],
+    "D": [
+     [
+      "Dog",
+      "🐶"
+     ],
+     [
+      "Duck",
+      "🦆"
+     ],
+     [
+      "Drum",
+      "🥁"
+     ]
+    ],
+    "E": [
+     [
+      "Elephant",
+      "🐘"
+     ],
+     [
+      "Egg",
+      "🥚"
+     ],
+     [
+      "Eagle",
+      "🦅"
+     ]
+    ],
+    "F": [
+     [
+      "Fish",
+      "🐟"
+     ],
+     [
+      "Frog",
+      "🐸"
+     ],
+     [
+      "Flower",
+      "🌸"
+     ]
+    ],
+    "G": [
+     [
+      "Giraffe",
+      "🦒"
+     ],
+     [
+      "Grapes",
+      "🍇"
+     ],
+     [
+      "Guitar",
+      "🎸"
+     ]
+    ],
+    "H": [
+     [
+      "House",
+      "🏠"
+     ],
+     [
+      "Horse",
+      "🐴"
+     ],
+     [
+      "Heart",
+      "❤️"
+     ]
+    ],
+    "I": [
+     [
+      "Ice cream",
+      "🍦"
+     ],
+     [
+      "Igloo",
+      "🏔️"
+     ],
+     [
+      "Insect",
+      "🐛"
+     ]
+    ],
+    "J": [
+     [
+      "Juice",
+      "🧃"
+     ],
+     [
+      "Jellyfish",
+      "🪼"
+     ],
+     [
+      "Jacket",
+      "🧥"
+     ]
+    ],
+    "K": [
+     [
+      "Kite",
+      "🪁"
+     ],
+     [
+      "Key",
+      "🔑"
+     ],
+     [
+      "Koala",
+      "🐨"
+     ]
+    ],
+    "L": [
+     [
+      "Lion",
+      "🦁"
+     ],
+     [
+      "Lemon",
+      "🍋"
+     ],
+     [
+      "Leaf",
+      "🍃"
+     ]
+    ],
+    "M": [
+     [
+      "Moon",
+      "🌙"
+     ],
+     [
+      "Monkey",
+      "🐵"
+     ],
+     [
+      "Mouse",
+      "🐭"
+     ]
+    ],
+    "N": [
+     [
+      "Nose",
+      "👃"
+     ],
+     [
+      "Nest",
+      "🪺"
+     ],
+     [
+      "Night",
+      "🌃"
+     ]
+    ],
+    "O": [
+     [
+      "Orange",
+      "🍊"
+     ],
+     [
+      "Owl",
+      "🦉"
+     ],
+     [
+      "Octopus",
+      "🐙"
+     ]
+    ],
+    "P": [
+     [
+      "Pizza",
+      "🍕"
+     ],
+     [
+      "Pig",
+      "🐷"
+     ],
+     [
+      "Penguin",
+      "🐧"
+     ]
+    ],
+    "Q": [
+     [
+      "Queen",
+      "👸"
+     ],
+     [
+      "Quilt",
+      "🛏️"
+     ]
+    ],
+    "R": [
+     [
+      "Rabbit",
+      "🐰"
+     ],
+     [
+      "Rainbow",
+      "🌈"
+     ],
+     [
+      "Robot",
+      "🤖"
+     ]
+    ],
+    "S": [
+     [
+      "Sun",
+      "☀️"
+     ],
+     [
+      "Star",
+      "⭐"
+     ],
+     [
+      "Snake",
+      "🐍"
+     ]
+    ],
+    "T": [
+     [
+      "Tree",
+      "🌳"
+     ],
+     [
+      "Tiger",
+      "🐯"
+     ],
+     [
+      "Turtle",
+      "🐢"
+     ]
+    ],
+    "U": [
+     [
+      "Umbrella",
+      "☂️"
+     ],
+     [
+      "Unicorn",
+      "🦄"
+     ]
+    ],
+    "V": [
+     [
+      "Violin",
+      "🎻"
+     ],
+     [
+      "Volcano",
+      "🌋"
+     ],
+     [
+      "Van",
+      "🚐"
+     ]
+    ],
+    "W": [
+     [
+      "Whale",
+      "🐳"
+     ],
+     [
+      "Watch",
+      "⌚"
+     ],
+     [
+      "Watermelon",
+      "🍉"
+     ]
+    ],
+    "X": [
+     [
+      "X-ray",
+      "🩻"
+     ],
+     [
+      "Xylophone",
+      "🎶"
+     ]
+    ],
+    "Y": [
+     [
+      "Yo-yo",
+      "🪀"
+     ],
+     [
+      "Yacht",
+      "⛵"
+     ],
+     [
+      "Yak",
+      "🐃"
+     ]
+    ],
+    "Z": [
+     [
+      "Zebra",
+      "🦓"
+     ],
+     [
+      "Zero",
+      "0️⃣"
+     ]
+    ]
+   }
+  },
+  "nl": {
+   "name": "Nederlands",
+   "flag": "🇳🇱",
+   "speech": "nl-NL",
+   "ui": {
+    "title": "ABC Avontuur",
+    "tap": "Tik op een letter!",
+    "examples": "Woorden die beginnen met",
+    "prev": "Terug",
+    "next": "Volgende",
+    "play": "Spelen",
+    "learn": "Leren",
+    "findLetter": "Vind de letter!",
+    "great": "Super gedaan!",
+    "listen": "Luister nog eens",
+    "playAgain": "Nog een keer",
+    "backToAlphabet": "Terug naar het alfabet",
+    "wellDone": "Goed gedaan!",
+    "score": "{n} van de {total} in één keer goed"
+   },
+   "words": {
+    "A": [
+     [
+      "Appel",
+      "🍎"
+     ],
+     [
+      "Aap",
+      "🐵"
+     ],
+     [
+      "Auto",
+      "🚗"
+     ]
+    ],
+    "B": [
+     [
+      "Bal",
+      "⚽"
+     ],
+     [
+      "Banaan",
+      "🍌"
+     ],
+     [
+      "Beer",
+      "🐻"
+     ]
+    ],
+    "C": [
+     [
+      "Citroen",
+      "🍋"
+     ],
+     [
+      "Clown",
+      "🤡"
+     ],
+     [
+      "Cadeau",
+      "🎁"
+     ]
+    ],
+    "D": [
+     [
+      "Draak",
+      "🐉"
+     ],
+     [
+      "Dolfijn",
+      "🐬"
+     ],
+     [
+      "Deur",
+      "🚪"
+     ]
+    ],
+    "E": [
+     [
+      "Eend",
+      "🦆"
+     ],
+     [
+      "Eekhoorn",
+      "🐿️"
+     ],
+     [
+      "Ei",
+      "🥚"
+     ]
+    ],
+    "F": [
+     [
+      "Fiets",
+      "🚲"
+     ],
+     [
+      "Fles",
+      "🍼"
+     ],
+     [
+      "Foto",
+      "📷"
+     ]
+    ],
+    "G": [
+     [
+      "Giraf",
+      "🦒"
+     ],
+     [
+      "Gitaar",
+      "🎸"
+     ],
+     [
+      "Geit",
+      "🐐"
+     ]
+    ],
+    "H": [
+     [
+      "Hond",
+      "🐶"
+     ],
+     [
+      "Huis",
+      "🏠"
+     ],
+     [
+      "Hart",
+      "❤️"
+     ]
+    ],
+    "I": [
+     [
+      "Insect",
+      "🐛"
+     ],
+     [
+      "Iglo",
+      "🏔️"
+     ]
+    ],
+    "J": [
+     [
+      "Jas",
+      "🧥"
+     ],
+     [
+      "Juf",
+      "👩‍🏫"
+     ],
+     [
+      "Jurk",
+      "👗"
+     ]
+    ],
+    "K": [
+     [
+      "Kat",
+      "🐱"
+     ],
+     [
+      "Koe",
+      "🐄"
+     ],
+     [
+      "Kaas",
+      "🧀"
+     ]
+    ],
+    "L": [
+     [
+      "Leeuw",
+      "🦁"
+     ],
+     [
+      "Lamp",
+      "💡"
+     ],
+     [
+      "Lepel",
+      "🥄"
+     ]
+    ],
+    "M": [
+     [
+      "Maan",
+      "🌙"
+     ],
+     [
+      "Muis",
+      "🐭"
+     ],
+     [
+      "Melk",
+      "🥛"
+     ]
+    ],
+    "N": [
+     [
+      "Neus",
+      "👃"
+     ],
+     [
+      "Nijlpaard",
+      "🦛"
+     ],
+     [
+      "Noten",
+      "🥜"
+     ]
+    ],
+    "O": [
+     [
+      "Olifant",
+      "🐘"
+     ],
+     [
+      "Oog",
+      "👁️"
+     ],
+     [
+      "Octopus",
+      "🐙"
+     ]
+    ],
+    "P": [
+     [
+      "Paard",
+      "🐴"
+     ],
+     [
+      "Pizza",
+      "🍕"
+     ],
+     [
+      "Pinguïn",
+      "🐧"
+     ]
+    ],
+    "Q": [
+     [
+      "Quiche",
+      "🥧"
+     ],
+     [
+      "Quiz",
+      "❓"
+     ]
+    ],
+    "R": [
+     [
+      "Regenboog",
+      "🌈"
+     ],
+     [
+      "Robot",
+      "🤖"
+     ],
+     [
+      "Raket",
+      "🚀"
+     ]
+    ],
+    "S": [
+     [
+      "Slang",
+      "🐍"
+     ],
+     [
+      "Sneeuw",
+      "❄️"
+     ],
+     [
+      "Sok",
+      "🧦"
+     ]
+    ],
+    "T": [
+     [
+      "Tijger",
+      "🐯"
+     ],
+     [
+      "Taart",
+      "🎂"
+     ],
+     [
+      "Trein",
+      "🚆"
+     ]
+    ],
+    "U": [
+     [
+      "Uil",
+      "🦉"
+     ],
+     [
+      "Uur",
+      "⏰"
+     ],
+     [
+      "Ui",
+      "🧅"
+     ]
+    ],
+    "V": [
+     [
+      "Vis",
+      "🐟"
+     ],
+     [
+      "Vlinder",
+      "🦋"
+     ],
+     [
+      "Vogel",
+      "🐦"
+     ]
+    ],
+    "W": [
+     [
+      "Walvis",
+      "🐳"
+     ],
+     [
+      "Wolk",
+      "☁️"
+     ],
+     [
+      "Water",
+      "💧"
+     ]
+    ],
+    "X": [
+     [
+      "Xylofoon",
+      "🎶"
+     ]
+    ],
+    "Y": [
+     [
+      "Yoghurt",
+      "🥛"
+     ],
+     [
+      "Yoga",
+      "🧘"
+     ]
+    ],
+    "Z": [
+     [
+      "Zon",
+      "☀️"
+     ],
+     [
+      "Zebra",
+      "🦓"
+     ],
+     [
+      "Zee",
+      "🌊"
+     ]
+    ]
+   }
+  },
+  "pt": {
+   "name": "Português",
+   "flag": "🇵🇹",
+   "speech": "pt-PT",
+   "ui": {
+    "title": "Aventura do ABC",
+    "tap": "Toca numa letra!",
+    "examples": "Palavras que começam com",
+    "prev": "Voltar",
+    "next": "Seguinte",
+    "play": "Jogar",
+    "learn": "Aprender",
+    "findLetter": "Encontra a letra!",
+    "great": "Muito bem!",
+    "listen": "Ouvir outra vez",
+    "playAgain": "Jogar outra vez",
+    "backToAlphabet": "Voltar ao alfabeto",
+    "wellDone": "Muito bem!",
+    "score": "{n} de {total} à primeira"
+   },
+   "words": {
+    "A": [
+     [
+      "Avião",
+      "✈️"
+     ],
+     [
+      "Abelha",
+      "🐝"
+     ],
+     [
+      "Árvore",
+      "🌳"
+     ]
+    ],
+    "B": [
+     [
+      "Bola",
+      "⚽"
+     ],
+     [
+      "Banana",
+      "🍌"
+     ],
+     [
+      "Boneca",
+      "🪆"
+     ]
+    ],
+    "C": [
+     [
+      "Casa",
+      "🏠"
+     ],
+     [
+      "Cavalo",
+      "🐴"
+     ],
+     [
+      "Coelho",
+      "🐰"
+     ]
+    ],
+    "D": [
+     [
+      "Dado",
+      "🎲"
+     ],
+     [
+      "Dinossauro",
+      "🦖"
+     ],
+     [
+      "Dedo",
+      "☝️"
+     ]
+    ],
+    "E": [
+     [
+      "Elefante",
+      "🐘"
+     ],
+     [
+      "Estrela",
+      "⭐"
+     ],
+     [
+      "Escola",
+      "🏫"
+     ]
+    ],
+    "F": [
+     [
+      "Flor",
+      "🌸"
+     ],
+     [
+      "Foca",
+      "🦭"
+     ],
+     [
+      "Fogo",
+      "🔥"
+     ]
+    ],
+    "G": [
+     [
+      "Gato",
+      "🐱"
+     ],
+     [
+      "Girafa",
+      "🦒"
+     ],
+     [
+      "Guitarra",
+      "🎸"
+     ]
+    ],
+    "H": [
+     [
+      "Hipopótamo",
+      "🦛"
+     ],
+     [
+      "Helicóptero",
+      "🚁"
+     ],
+     [
+      "Hambúrguer",
+      "🍔"
+     ]
+    ],
+    "I": [
+     [
+      "Igreja",
+      "⛪"
+     ],
+     [
+      "Ilha",
+      "🏝️"
+     ],
+     [
+      "Iogurte",
+      "🥛"
+     ]
+    ],
+    "J": [
+     [
+      "Jacaré",
+      "🐊"
+     ],
+     [
+      "Janela",
+      "🪟"
+     ],
+     [
+      "Jornal",
+      "📰"
+     ]
+    ],
+    "K": [
+     [
+      "Kiwi",
+      "🥝"
+     ],
+     [
+      "Koala",
+      "🐨"
+     ],
+     [
+      "Karaté",
+      "🥋"
+     ]
+    ],
+    "L": [
+     [
+      "Leão",
+      "🦁"
+     ],
+     [
+      "Lua",
+      "🌙"
+     ],
+     [
+      "Livro",
+      "📖"
+     ]
+    ],
+    "M": [
+     [
+      "Macaco",
+      "🐵"
+     ],
+     [
+      "Maçã",
+      "🍎"
+     ],
+     [
+      "Mala",
+      "🧳"
+     ]
+    ],
+    "N": [
+     [
+      "Navio",
+      "🚢"
+     ],
+     [
+      "Nuvem",
+      "☁️"
+     ],
+     [
+      "Ninho",
+      "🪺"
+     ]
+    ],
+    "O": [
+     [
+      "Ovo",
+      "🥚"
+     ],
+     [
+      "Olho",
+      "👁️"
+     ],
+     [
+      "Ovelha",
+      "🐑"
+     ]
+    ],
+    "P": [
+     [
+      "Pato",
+      "🦆"
+     ],
+     [
+      "Peixe",
+      "🐟"
+     ],
+     [
+      "Pizza",
+      "🍕"
+     ]
+    ],
+    "Q": [
+     [
+      "Queijo",
+      "🧀"
+     ],
+     [
+      "Quadro",
+      "🖼️"
+     ],
+     [
+      "Quente",
+      "🔥"
+     ]
+    ],
+    "R": [
+     [
+      "Rato",
+      "🐭"
+     ],
+     [
+      "Rosa",
+      "🌹"
+     ],
+     [
+      "Robô",
+      "🤖"
+     ]
+    ],
+    "S": [
+     [
+      "Sol",
+      "☀️"
+     ],
+     [
+      "Sapo",
+      "🐸"
+     ],
+     [
+      "Sorvete",
+      "🍦"
+     ]
+    ],
+    "T": [
+     [
+      "Tartaruga",
+      "🐢"
+     ],
+     [
+      "Tigre",
+      "🐯"
+     ],
+     [
+      "Trem",
+      "🚆"
+     ]
+    ],
+    "U": [
+     [
+      "Uva",
+      "🍇"
+     ],
+     [
+      "Urso",
+      "🐻"
+     ],
+     [
+      "Unicórnio",
+      "🦄"
+     ]
+    ],
+    "V": [
+     [
+      "Vaca",
+      "🐄"
+     ],
+     [
+      "Violino",
+      "🎻"
+     ],
+     [
+      "Vulcão",
+      "🌋"
+     ]
+    ],
+    "W": [
+     [
+      "Waffle",
+      "🧇"
+     ],
+     [
+      "Wi-Fi",
+      "🛜"
+     ]
+    ],
+    "X": [
+     [
+      "Xícara",
+      "☕"
+     ],
+     [
+      "Xadrez",
+      "♟️"
+     ]
+    ],
+    "Y": [
+     [
+      "Yoga",
+      "🧘"
+     ],
+     [
+      "Yakisoba",
+      "🍜"
+     ]
+    ],
+    "Z": [
+     [
+      "Zebra",
+      "🦓"
+     ],
+     [
+      "Zero",
+      "0️⃣"
+     ]
+    ]
+   }
+  }
+ }
+}
