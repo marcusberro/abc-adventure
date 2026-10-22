@@ -3,7 +3,7 @@
 A kid-friendly alphabet app (React + Vite). Tap a letter to see example words; tap a word to hear it.
 Languages included: English, Dutch, Portuguese.
 
-![ABC grid](abc-grid.png)
+![ABC grid](abc-grid-nl.png)
 
 ## Run it
 
