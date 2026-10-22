@@ -1,0 +1,65 @@
+name: Build and deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]      # change to "master" if that is your default branch
+  pull_request:           # pull requests only build (a check that nothing is broken); they do not deploy
+  workflow_dispatch:      # lets you run it by hand from the Actions tab
+
+# Least privilege: the workflow can read the code and publish to Pages, nothing else.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# One deployment at a time; a newer push cancels an older run that is still waiting.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install dependencies
+        # "npm ci" is faster and exact, but needs package-lock.json (commit it once you have run npm install).
+        run: |
+          if [ -f package-lock.json ]; then npm ci; else npm install; fi
+
+      - name: Build (creates the dist folder)
+        run: npm run build
+
+      - name: Check that dist was created
+        run: test -f dist/index.html && ls -la dist
+
+      - name: Set up Pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Upload the dist folder
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

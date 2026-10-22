@@ -43,3 +43,16 @@ Game texts are in the `ui` block of each language in `alphabet.json`. Game logic
 (change `rounds` / `choices` in `Game.jsx` to adjust length and difficulty).
 
 See **LOGGING.md** for how logging works and how to switch log levels on and off.
+
+## Publish on GitHub Pages
+
+The workflow in `.github/workflows/deploy.yml` builds the project and publishes the `dist` folder.
+
+1. Push this project to a GitHub repository (default branch `main`).
+2. In the repository go to **Settings > Pages** and set **Source** to **GitHub Actions** (one time only).
+3. Push to `main`. Open the **Actions** tab to follow the run; when it is green, the site is live at
+   `https://marcusberro.github.io/abc-adventure/`.
+
+Pull requests only run the build as a check. You can also start a deploy by hand: Actions > "Build and
+deploy to GitHub Pages" > **Run workflow**. Tip: run `npm install` once locally and commit
+`package-lock.json`; the workflow then uses the faster, exact `npm ci`.
